@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="password_generator.password_generator.urls.generator" />
+          <option value="generator.generator.urls.main" />
+          <option value="shop.shop.urls.homepage" />
+          <option value="shop.shop.urls.buy" />
+          <option value="aiogram.dispatcher.filters.state.State.__await__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
