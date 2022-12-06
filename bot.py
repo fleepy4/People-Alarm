@@ -9,7 +9,7 @@ from bot_files import keyboard
 import db
 
 storage = MemoryStorage()
-bot = Bot(token='5537898680:AAHYtK67uW1aui_dvM5P6mA7G2v8wc1Pc2Y')
+bot = Bot(token='TOKEN')
 dp = Dispatcher(bot, storage=storage)
 passwd = 'si5Jofdg434f'
 
