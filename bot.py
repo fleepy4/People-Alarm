@@ -11,6 +11,7 @@ import db
 storage = MemoryStorage()
 bot = Bot(token='TOKEN')
 dp = Dispatcher(bot, storage=storage)
+# тут может быть любой пароль для доступа к функционалу бота
 passwd = 'si5Jofdg434f'
 
 
